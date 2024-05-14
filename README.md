@@ -1,4 +1,25 @@
-### Hi there 👋
+# chlwlsguszz
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchlwlsguszz&count_bg=%2379C83D&title_bg=%2351FF00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chlwlsguszz&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwlsguszz)](https://solved.ac/chlwlsguszz/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlwlsguszz&langs_count=5&layout=compact&theme=dark&)](https://github.com/chlwlsguszz/chlwlsguszz)
+
+# 🤔
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+
+# 📫
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlwlsguszz@gmail.com)](mailto:chlwlsguszz@gmail.com)
 
 <!--
 **chlwlsguszz/chlwlsguszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
