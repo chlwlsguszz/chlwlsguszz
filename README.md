@@ -26,6 +26,9 @@
 2021
 [C-TETRIS](https://github.com/chlwlsguszz/C-TETRIS)
 
+# ✍️
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={default})](https://chlwlsguszz.tistory.com/)
+
 # 📫
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlwlsguszz@gmail.com)](mailto:chlwlsguszz@gmail.com)
