@@ -23,8 +23,8 @@
 
 2022
 
-2021
-[C-TETRIS](https://github.com/chlwlsguszz/C-TETRIS)
+2021<br/>
+[JAVA-TypingGame](https://github.com/chlwlsguszz/Java-TypingGame) [C-TETRIS](https://github.com/chlwlsguszz/C-TETRIS)
 
 # ✍️
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={default})](https://chlwlsguszz.tistory.com/)
