@@ -20,7 +20,13 @@
 2022
 
 2021<br/>
-[JAVA-TypingGame](https://github.com/chlwlsguszz/Java-TypingGame) [C-TETRIS](https://github.com/chlwlsguszz/C-TETRIS)
+라즈베리파이 무인 인증사진 촬영기 <br/>
+https://github.com/chlwlsguszz/RaspberryPi-AutoIdPhotoCamera <br/>
+Java 타자 연습 게임 <br/>
+https://github.com/chlwlsguszz/Java-TypingGame <br/>
+C-TETRIS <br/>
+https://github.com/chlwlsguszz/C-TETRIS<br/>
+
 
 # ✍️
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={default})](https://chlwlsguszz.tistory.com/)
