@@ -15,7 +15,8 @@
 # Project
 
 Java Spring, Swift 다중 사용자 필기 앱 팀 프로젝트 - Pens' (2023) <br/>
-https://github.com/chlwlsguszz/pens-server <br/><br/>
+https://github.com/chlwlsguszz/pens-server <br/>
+https://github.com/chlwlsguszz/pens-client <br/><br/>
 Unity 온라인 축구 게임 팀 프로젝트 (2023) <br/>
 https://github.com/chlwlsguszz/1vs1-soccerGame <br/><br/>
 Swift IOS 루틴 캘린더 (2023) <br/>
