@@ -14,24 +14,24 @@
 
 # Project
 
-Java Spring, Swift 온라인 브레인스토밍 플랫폼 팀 프로젝트 - Pens' (2023) <br/>
+Java Spring, Swift 온라인 브레인스토밍 플랫폼 팀 프로젝트 - Pens'  <br/>
 https://github.com/chlwlsguszz/pens-server <br/>
 https://github.com/chlwlsguszz/pens-client <br/><br/>
-Unity 온라인 축구 게임 팀 프로젝트 (2023) <br/>
+Unity 온라인 축구 게임 팀 프로젝트  <br/>
 https://github.com/chlwlsguszz/1vs1-soccerGame <br/><br/>
-Swift IOS 루틴 캘린더 (2023) <br/>
+Swift IOS 루틴 캘린더  <br/>
 https://github.com/chlwlsguszz/iOS-RoutineCalendar <br/><br/>
-React 여행 웹사이트 팀 프로젝트 - 호연지기 (2022) <br/>
+React 여행 웹사이트 팀 프로젝트 - 호연지기  <br/>
 https://github.com/chlwlsguszz/WF2022 <br/><br/>
-Java 온라인 오목 게임 팀 프로젝트 - Omok (2022) <br/>
+Java 온라인 오목 게임 팀 프로젝트 - Omok  <br/>
 https://github.com/chlwlsguszz/Omok <br/><br/>
-Kotlin Android SNS 팀 프로젝트 - Han's Daily (2022) <br/>
+Kotlin Android SNS 팀 프로젝트 - Han's Daily  <br/>
 https://github.com/chlwlsguszz/Android-SNS <br/><br/>
-Python 라즈베리파이 무인 인증사진 촬영기 (2021) <br/>
+Python 라즈베리파이 무인 인증사진 촬영기  <br/>
 https://github.com/chlwlsguszz/RaspberryPi-AutoIdPhotoCamera <br/><br/>
-Java 타자 연습 게임 (2021) <br/>
+Java 타자 연습 게임  <br/>
 https://github.com/chlwlsguszz/Java-TypingGame <br/><br/>
-C TETRIS (2021) <br/>
+C TETRIS  <br/>
 https://github.com/chlwlsguszz/C-TETRIS<br/><br/>
 
 
