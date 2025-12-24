@@ -1,7 +1,5 @@
 # chlwlsguszz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chlwlsguszz&show_icons=true&theme=dark)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwlsguszz)](https://solved.ac/chlwlsguszz/)
 
 # 🤔
