@@ -1,54 +1,43 @@
-# chlwlsguszz
+안녕하세요.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwlsguszz)](https://solved.ac/chlwlsguszz/)
+저는 한성대학교 컴퓨터공학과를 졸업한 최진현입니다. 
 
-# 🤔
+매일 공부하는 일관성을 중요하게 생각합니다. 
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+자바 스프링을 중심으로 백엔드, 데브옵스를 공부했습니다.
 
-# Project
+언어에 국한되지 않고 문제해결에 집중하는 개발자가 되겠습니다. 
 
-Java Spring, Swift 온라인 브레인스토밍 플랫폼 팀 프로젝트 - Pens'  <br/>
-https://github.com/chlwlsguszz/pens-server <br/>
-https://github.com/chlwlsguszz/pens-client <br/><br/>
-Swift IOS 루틴 캘린더  <br/>
-https://github.com/chlwlsguszz/iOS-RoutineCalendar <br/><br/>
-React 여행 웹사이트 팀 프로젝트 - 호연지기  <br/>
-https://github.com/chlwlsguszz/WF2022 <br/><br/>
-Java 온라인 오목 게임 팀 프로젝트 - Omok  <br/>
-https://github.com/chlwlsguszz/Omok <br/><br/>
-Kotlin Android SNS 팀 프로젝트 - Han's Daily  <br/>
-https://github.com/chlwlsguszz/Android-SNS <br/><br/>
-Python 라즈베리파이 무인 인증사진 촬영기  <br/>
-https://github.com/chlwlsguszz/RaspberryPi-AutoIdPhotoCamera <br/><br/>
-Java 타자 연습 게임  <br/>
-https://github.com/chlwlsguszz/Java-TypingGame <br/><br/>
-C TETRIS  <br/>
-https://github.com/chlwlsguszz/C-TETRIS<br/><br/>
+## P R O J E C T
 
+---
 
-# ✍️
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme={default})](https://chlwlsguszz.tistory.com/)
+[**SpringBoot 조리 후 영양소 계산 AI 웹 서비스** ](https://www.notion.so/SpringBoot-AI-31b9368be5f980eb8345f80ada689cae?pvs=21)
 
-# 📫
+---
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlwlsguszz@gmail.com)](mailto:chlwlsguszz@gmail.com)
+[**Swift IPad OS 실시간 협업 플랫폼** ](https://www.notion.so/Swift-IPad-OS-31b9368be5f980bfa206ca6c662a1e26?pvs=21)
 
-<!--
-**chlwlsguszz/chlwlsguszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+미니 프로젝트
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Swift iOS 루틴 캘린더
+
+https://github.com/chlwlsguszz/iOS-RoutineCalendar
+
+- Kotlin Android 소셜 네트워크 앱
+
+https://github.com/chlwlsguszz/Android-SNS
+
+- Java Socket 통신 오목 게임
+
+https://github.com/chlwlsguszz/Omok
+
+- Python Linux 무인 인증사진 촬영기
+
+https://github.com/chlwlsguszz/RaspberryPi-AutoIdPhotoCamera
+
+- Java 타자연습 게임
+
+https://github.com/chlwlsguszz/Java-TypingGame
