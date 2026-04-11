@@ -1,10 +1,11 @@
-## 최진현 | Backend Developer
+## Skills
+Language: Java, Python, JavaScript
 
-매일 공부하는 일관성을 중요하게 생각합니다. 
+Backend: SpringBoot, MySQL, FastAPI
 
-자바 스프링을 중심으로 백엔드, 데브옵스를 공부했습니다.
+DevOps: AWS EC2, Docker
 
-언어에 국한되지 않고 문제해결에 집중하는 개발자가 되겠습니다. 
+LLMOps: LangChain, RAG, FAISS
 
 ## P R O J E C T
 
