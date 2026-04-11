@@ -5,7 +5,7 @@ Backend: SpringBoot, MySQL, FastAPI
 
 DevOps: AWS EC2, Docker
 
-LLMOps: LangChain, RAG, FAISS
+LLMOps: LangChain4j, PGVector
 
 ## P R O J E C T
 
